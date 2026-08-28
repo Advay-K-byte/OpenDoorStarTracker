@@ -12,5 +12,6 @@ OnShape full cad model: https://cad.onshape.com/documents/74c63627717610043aa961
 
 BOM: https://docs.google.com/spreadsheets/d/1jzOKhSsxTXtr95Q2sw8j4dyO4oUSdCoERQhsF2ek0W0/edit?usp=sharing
 
+<img width="1078" height="906" alt="image" src="https://github.com/user-attachments/assets/b3dc1b0c-d716-4b92-b797-7eb9a7f3dc31" />
 
 
