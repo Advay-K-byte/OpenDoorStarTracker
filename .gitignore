@@ -1,0 +1,13 @@
+# Arduino IDE temporary build files
+applet/
+*.o
+*.d
+*.elf
+*.hex
+
+# Core build files
+*.bin
+
+# System files
+.DS_Store
+Thumbs.db
