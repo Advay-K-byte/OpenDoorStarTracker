@@ -14,4 +14,16 @@ BOM: https://docs.google.com/spreadsheets/d/1jzOKhSsxTXtr95Q2sw8j4dyO4oUSdCoERQh
 
 <img width="1078" height="906" alt="image" src="https://github.com/user-attachments/assets/b3dc1b0c-d716-4b92-b797-7eb9a7f3dc31" />
 
+# Motion:
+The OpenDoor Star Tracker uses a barn-door tracker design with a ¼ inch (20TPI) screw and nut rotating at 1 rpm to move at the sidereal rate.
+  - MOTOR: 
 
+# Electronics:
+
+# WiFi Controller Software
+
+# Polar Alignment:
+
+# Camera Mount:
+
+# EQ Wedge:
