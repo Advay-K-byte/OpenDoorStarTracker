@@ -16,13 +16,11 @@ BOM: https://docs.google.com/spreadsheets/d/1jzOKhSsxTXtr95Q2sw8j4dyO4oUSdCoERQh
 YOUTUBE VIDEO: https://youtu.be/rEIXzPVLKTk?si=SgSztPYLGnnmBQIM
 
 <img width="1280" height="720" alt="DIY Telescope (1)" src="https://github.com/user-attachments/assets/a3b90546-4a51-4086-b24c-def3754effcc" />
-
-Camera Mount Printables link: https://www.printables.com/model/81126-tripod-ball-head
-Thank you zx82net, @zx82net_107245 on Printables!
-
 <img width="3024" height="4032" alt="fullTracker" src="https://github.com/user-attachments/assets/4119238f-ebe6-4511-a58f-abe160add365" />
 <img width="1078" height="906" alt="image" src="https://github.com/user-attachments/assets/b3dc1b0c-d716-4b92-b797-7eb9a7f3dc31" />
 
+Camera Mount Printables link: https://www.printables.com/model/81126-tripod-ball-head
+Thank you zx82net, @zx82net_107245 on Printables!
 # Motion:
 The OpenDoor Star Tracker uses a barn-door tracker design with a ¼ inch (20TPI) screw and nut rotating at 1 rpm to move at the sidereal rate.
 - MOTOR: 28-BYJ Stepper motor
