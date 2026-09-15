@@ -12,7 +12,7 @@ OnShape full cad model: https://cad.onshape.com/documents/74c63627717610043aa961
 
 BOM: https://docs.google.com/spreadsheets/d/1jzOKhSsxTXtr95Q2sw8j4dyO4oUSdCoERQhsF2ek0W0/edit?usp=sharing
 
-[![Watch the video](https://youtube.com)](https://youtu.be/rEIXzPVLKTk?si=SgSztPYLGnnmBQIM)
+YOUTUBE VIDEO: https://youtu.be/rEIXzPVLKTk?si=SgSztPYLGnnmBQIM
 
 Camera Mount Printables link: https://www.printables.com/model/81126-tripod-ball-head
 Thank you zx82net, @zx82net_107245 on Printables!
