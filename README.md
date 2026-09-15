@@ -1,3 +1,4 @@
+
 # OpenDoorStarTracker
 An extremely budget friendly barn-door based star tracker, based on ESP32 and 28BYJ stepper motor.
 
@@ -13,6 +14,8 @@ OnShape full cad model: https://cad.onshape.com/documents/74c63627717610043aa961
 BOM: https://docs.google.com/spreadsheets/d/1jzOKhSsxTXtr95Q2sw8j4dyO4oUSdCoERQhsF2ek0W0/edit?usp=sharing
 
 YOUTUBE VIDEO: https://youtu.be/rEIXzPVLKTk?si=SgSztPYLGnnmBQIM
+
+<img width="1280" height="720" alt="DIY Telescope (1)" src="https://github.com/user-attachments/assets/a3b90546-4a51-4086-b24c-def3754effcc" />
 
 Camera Mount Printables link: https://www.printables.com/model/81126-tripod-ball-head
 Thank you zx82net, @zx82net_107245 on Printables!
