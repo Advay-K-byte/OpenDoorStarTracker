@@ -43,6 +43,8 @@ The OpenDoor Star Tracker uses a barn-door tracker design with a ¼ inch (20TPI)
   - Manual zero position setting
 <img width="660" height="734" alt="ControllerProgram" src="https://github.com/user-attachments/assets/389ff8c8-9533-42b7-948b-996d3458b4d1" />
 
+I also controlled my camera wirelessly through the Camera Control software made for olympus cameras. If you want your rig to be fully 100% automated, I highly reccomend to use a wire, or wireless setup connected to a laptop running a program, or get an intervalometer.
+It feels way more advanced if you do not have to touch anything, and it likely improved image quality, as you are not touching the easily moveable or sensitive ball head.
 
 
 # Polar Alignment:
@@ -51,6 +53,8 @@ The OpenDoor Star Tracker uses a barn-door tracker design with a ¼ inch (20TPI)
   - Can be adjusted using the EQ Wedge for alt, and the main base for az.
 
 # Camera Mount:
+The Camera Ball Head is fully 3d printed. Thank you to user zx82net, @zx82net_107245 on Printables! I modified the base to make it an easier angle at my latitude to point the camera anywhere.
+I mounted this, on the side of the mount that is higher up, to offset the weight of the rest of the tripod so the eq wedge has less force on it, and also to allow for better southern aiming, and general zenith aiming.
 
 # EQ Wedge:
 The EQ wedge is fully 3d printed, other than a few hinge screws. my size is for 1/4" but you can adjust in cad using step source cad.
