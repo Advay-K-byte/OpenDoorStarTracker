@@ -12,6 +12,8 @@ OnShape full cad model: https://cad.onshape.com/documents/74c63627717610043aa961
 
 BOM: https://docs.google.com/spreadsheets/d/1jzOKhSsxTXtr95Q2sw8j4dyO4oUSdCoERQhsF2ek0W0/edit?usp=sharing
 
+[![Watch the video](https://youtube.com)](https://youtu.be/rEIXzPVLKTk?si=SgSztPYLGnnmBQIM)
+
 Camera Mount Printables link: https://www.printables.com/model/81126-tripod-ball-head
 Thank you zx82net, @zx82net_107245 on Printables!
 
@@ -20,7 +22,11 @@ Thank you zx82net, @zx82net_107245 on Printables!
 
 # Motion:
 The OpenDoor Star Tracker uses a barn-door tracker design with a ¼ inch (20TPI) screw and nut rotating at 1 rpm to move at the sidereal rate.
-  - MOTOR: 
+- MOTOR: 28-BYJ Stepper motor
+- DRIVER: ULN2003 Driver
+- SCREW: 1/4" x 20Teeth per Inch Screw hand curved
+- GEARS: 5:1 3d printed gear with pushed in nut
+
 
 # Electronics:
 
