@@ -1,0 +1,29 @@
+OpenDoor Star Tracker,,,,,,,
+GITHUB: https://github.com/Advay-K-byte/OpenDoorStarTracker/tree/main,,OnShape CAD: https://cad.onshape.com/documents/74c63627717610043aa96174/w/ea7d6111b83551bf0402bd96/e/efb1aef8f325fa2de03cf594 ,,,,,
+ITEM,DESC,PRICE (1),QUANITITY,SUBTOTAL,LINK,,
+STRUCTURAL:,,,,,,,
+Wood Base Pieces,About 1cmx14cmx33cm plywood,,,,,,Any cheap small plywood board works.
+Door Hinge,standard door hinge,3,,,Home Depot,Amazon,
+Door hinge Screw Support,small block of wood to support door hinge screws,,,,,,"this was specifically for me, but can be edited for different kinds of tripod mounts"
+EQ Wedge tracker mount,3d printed. Mounts to the tracker bottom,,,,,,
+EQ wedge base mount,"3d printed. Mounts to tripod base w/ 4"" screw",,1,,,,
+EQ wedge star tracker screws,"All 1/4"" 20tpi. base: 4"" tracker: 1"" hinge: 2""",4,,,Home Depot ,,Any general screw works. Please edit the CAD model to fit whatever size you have locally.
+Nuts,"All 1/4"" 20tpi. 5x normal nuts. 2x wingnuts",2,,,,,
+,,,,,,,
+MOTION:,,,,,,,
+Curved Screw,"1/4"" 20tpi x 3ft. Mounted w/ 2x normal nuts",3,1,,Home Depot ,Amazon,"Much better to buy locally rather than shipped. 1/4"" 20TPI is preffered, but you can probably change rotation speed"
+50T gear + 10T gear,3d printed. 50T gear w/ normal nut.,,2,,,,
+Camera Mount,3d printed. link: printables ,,,,,,
+,,,,,,,
+,,,,,,,
+ELECTRONICS:,,,,,,,
+28BYJ-48 Stepper Motor,Mounted w/ repurposed screws,3,,,Micro Center ,Amazon ,I recommend to buy in a large pack with included matching drivers for cheap and easy to use system.
+28BYJ -48 Motor Driver,ULN 2003A driver. very simple to use,comes w/ motor,,,Micro Center , Amazon ,
+ESP32,only $16 for 3. only $6 per board.,6,,,Micro Center ,Amazon ,
+Power Wire,General ESP32 data wire (USBC or Micro USB),,,,,,
+USB Power Bank,Any size normal USB power bank made for phone,,,,,,
+(optional) Perfboard,"Use if you can solder, or just use arduino jumpers",,,,,Amazon ,
+Jumper wires, Use this or/with a breadboard for standard.,5,,,,Amazon ,
+Electronics Bay,3d Printed. Mounted w/ reused screws,,,,,,
+,,,,,,,
+,TOTAL:,26,,,,,
