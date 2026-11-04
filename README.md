@@ -2,6 +2,8 @@
 # OpenDoorStarTracker
 An extremely budget friendly barn-door based star tracker, based on ESP32 and 28BYJ stepper motor.
 
+This project was made for Hack Club Stardance Program! Thanks so much to Hack Club for inspiring teens to make these kinds of projects!
+
 This project is aimed to reduce the cost of entry level astrophotography, by providing a simple, highly open source and customizable barn-door star tracker base design.
 
 Features:
